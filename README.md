@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm みゅー！</h1>
-<h3 align="center">にほんじんです</h3>
+<h3 align="center">にほんじんです、情弱なりにがんばります。</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=my3u&theme=tokyonight) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=my3u&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=my3u&theme=tokyonight)
