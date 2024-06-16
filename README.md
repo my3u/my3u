@@ -18,4 +18,5 @@
   </a>
 </p>
 
-
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.66; background: url('https://cdn.discordapp.com/attachments/1002476482599321640/1251781380782690356/-_SV_jneo_p9h6WI_-_1920x1080_-_2m18s.png?ex=666fd3c2&is=666e8242&hm=87f4aa9e0ab75c3d0cf94c2afbb85557447b8ca170fb7471786608235d512b67&');]{x0000}$} 
